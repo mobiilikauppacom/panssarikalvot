@@ -3,7 +3,7 @@
 Tervetuloa panssarikalvojen ja panssarilasien tietopankkiin!  
 Mobiilikauppa.com tarjoaa Arctic Shield -näytönsuojat, valmistettu Suomessa (Avainlippu).
 
-## Hyödylliset linkit (dofollow)
+## Hyödylliset linkit
 
 https://mobiilikauppa.com/collections/panssarikalvot-1  
 https://mobiilikauppa.com/collections/panssarilasi  
