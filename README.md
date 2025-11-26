@@ -6,7 +6,7 @@ Mobiilikauppa.com tarjoaa Arctic Shield -näytönsuojat, valmistettu Suomessa (A
 ## Hyödylliset linkit
 
 https://mobiilikauppa.com/collections/panssarikalvot-1  
-https://mobiilikauppa.com/collections/panssarilasi  
+https://mobiilikauppa.com/collections/panssarilasit  
 https://mobiilikauppa.com/
 
 ## Mikä tämä repositorio on?
