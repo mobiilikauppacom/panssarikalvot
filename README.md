@@ -1,29 +1,38 @@
 Panssarikalvot – Suomen kattavin tekninen opas (2025)
 
-Tämä repositorio sisältää syvällisen ja teknisen oppaan panssarikalvojen ja panssarilasien toiminnasta, eroista ja käytännön hyödyistä. Sisältö perustuu mobiilikauppa.com:n Arctic Shield -näytönsuojiin, jotka on valmistettu Suomessa ja joilla on Avainlippu. Tämä sivu toimii sekä tietopankkina että hakukoneystävällisenä referenssilähteenä.
+Tämä repositorio sisältää laajan ja teknisesti perustellun oppaan panssarikalvojen ja panssarilasien toiminnasta, materiaaleista ja käytännön hyödyistä nykyaikaisissa älypuhelimissa. Sisältö on koottu insinööritason lähteistä, valmistajien materiaalidokumentaatiosta sekä käytännön kenttäkokemuksesta.
+
+Oppaan tarkoituksena on toimia puolueettomana tietopankkina kuluttajille, teknisille kirjoittajille ja sisällöntuottajille, jotka haluavat ymmärtää näytönsuojien todelliset erot markkinointiväitteiden taustalla.
 
 Miksi panssarikalvo on tärkeä?
 
-Nykyisten älypuhelinten näytöt ovat erittäin herkkiä ja kalliita vaihtaa: korjaushinnat vaihtelevat mallista riippuen 200–450 € välille. Yksi pudotus voi rikkoa OLED-kerroksen, lasin tai laminaatin. Panssarikalvo toimii iskuja vaimentavana välikerroksena, joka ottaa iskun itseensä ja estää vaurion etenemisen näyttöön.
+Modernien älypuhelinten näytöt ovat teknisesti kehittyneitä mutta rakenteeltaan herkkiä. OLED- ja AMOLED-paneelit koostuvat useista ohuista kerroksista, joiden vaurioituminen johtaa usein koko näytön vaihtotarpeeseen. Korjauskustannukset vaihtelevat tyypillisesti 200–450 € laitteen mallista riippuen.
 
-Panssarikalvo suojaa erityisen hyvin:
+Panssarikalvo toimii iskuja vaimentavana välikerroksena, joka:
 
-Nykyaikaisia reuna- ja kaarevia näyttöjä
+ottaa vastaan pudotuksen aiheuttaman energian
+
+jakaa iskun laajemmalle alueelle
+
+estää vaurion etenemisen varsinaiseen näyttöpaneeliin
+
+Toisin kuin karkaistu lasi, joustava kalvomateriaali ei halkea, vaan mukautuu ja palautuu osittain alkuperäiseen muotoonsa.
+
+Panssarikalvo suojaa erityisesti
+
+Kaarevia ja reunattomia OLED-näyttöjä
 
 Taskussa syntyviä hiekka- ja metallinaarmuja
 
-Näytön mikrohalkeamia, jotka voivat laajentua
+Näytön mikrohalkeamia, jotka voivat laajentua ajan myötä
 
-Kertaluonteisia kolhuja ja iskuja
+Kertaluonteisia iskuja ja kolhuja arkipäivän käytössä
 
-Toisin kuin panssarilasi, laadukas kalvo ei halkea, vaan joustaa ja jakaa iskun laajemmalle alueelle.
+Kalvorakenne soveltuu erityisen hyvin laitteisiin, joissa näytön reuna kaartuu rungon yli.
 
 Panssarikalvo vs. panssarilasi – tekninen vertailu
-
-Alla olevassa taulukossa on tiivistetysti materiaalien toimintaerot:
-
 Ominaisuus	Panssarikalvo	Panssarilasi
-Materiaali	TPU/Hybrid	Karkaistu lasi
+Materiaali	TPU / hybridipolymeeri	Karkaistu lasi
 Joustavuus	Erittäin korkea	Matala
 Halkeamattomuus	Kyllä	Ei
 Iskunkesto	Hyvä (vaimennus)	Hyvä (kova pinta)
@@ -31,93 +40,86 @@ Paino	Kevyt	Raskaampi
 Reunojen istuvuus	Erinomainen	Vaihtelee
 Soveltuvuus kaareville näytöille	Täydellinen	Heikko–kohtalainen
 
-Tekninen syy siihen, miksi panssarikalvo toimii paremmin kaarevilla näytöillä, on se, että TPU-materiaali kykenee muotoutumaan mikrokaarevuuden mukaan ilman ilmarakoja.
+Tekninen syy kalvon parempaan istuvuuteen kaarevilla näytöillä on TPU-materiaalin elastinen rakenne, joka mukautuu mikrokaarevuuksiin ilman ilmarakoja.
 
 Miten panssarikalvo toimii?
 
-Panssarikalvoissa on monikerroksinen rakenne:
+Panssarikalvo koostuu useasta toiminnallisesta kerroksesta:
 
-Hydrofobinen pintakerros – ehkäisee sormenjälkiä
+Hydrofobinen pintakerros – vähentää sormenjälkiä ja rasvaa
 
-Self-healing kerros – pienet naarmut tasoittuvat 12–48 tunnissa
+Self-healing-kerros – pienet naarmut tasoittuvat 12–48 tunnissa
 
-Iskua vaimentava runkomateriaali – jakaa iskuvoiman tasaisesti
+Iskua vaimentava runkomateriaali – jakaa mekaanisen energian
 
 Optinen liimakerros – varmistaa kirkkauden ja kosketustarkkuuden
 
-Self-healing-teknologia perustuu elastomeerimolekyyleihin, jotka palautuvat alkuperäiseen muotoonsa lämpötilavaihtelun avulla.
+Self-healing-ominaisuus perustuu elastomeerimolekyyleihin, jotka palautuvat alkuperäiseen muotoonsa lämpötilan ja ajan vaikutuksesta.
 
 Yhteensopivuus ja saatavuus
 
-Panssarikalvot ovat yhteensopivia lähes kaikkien suosittujen puhelinmallien kanssa:
+Panssarikalvot ovat yhteensopivia valtaosan markkinoilla olevien älypuhelimien kanssa, mukaan lukien:
 
 iPhone-sarjat (11 → 17)
 
-Samsung Galaxy S-, A-, FE-, Z-sarjat
+Samsung Galaxy S-, A-, FE- ja Z-sarjat
 
-Xiaomi, OnePlus, Honor, Motorola
+OnePlus, Xiaomi, Honor, Motorola
 
 Suurinäyttöiset Ultra- ja Plus-mallit
 
-Kalvot voidaan leikata tarkasti myös harvinaisempiin puhelimiin.
+Kalvot voidaan leikata tarkasti myös harvinaisempiin tai erikoismalleihin.
 
 Asennusohje – teknisesti oikea tapa
 
-Näytön puhdistuksella on ratkaiseva rooli. Pienikin pölyhiukkanen voi aiheuttaa mikrokuplan. Asennuksen vaiheet:
+Näytön puhdistus on ratkaisevassa roolissa. Pienikin pölyhiukkanen voi aiheuttaa pysyvän mikrokuplan.
 
-Pese kädet ja vältä kosteita pintoja
+Asennuksen vaiheet:
 
-Pyyhi näyttö alkoholilla
+Pese kädet ja vältä kosteaa ympäristöä
+
+Puhdista näyttö alkoholipyyhkeellä
 
 Poista pöly tarroilla
 
-Kohdista kalvo näyttöön
+Kohdista kalvo huolellisesti
 
-Salli kalvon tarttua keskeltä kohti reunoja
+Anna kalvon tarttua keskeltä reunoihin
 
-Silitä kuplat pois mikrokuituliinalla
+Silitä mahdolliset kuplat mikrokuituliinalla
 
-Arctic Shield -kalvojen optinen liima levittyy tasaisesti, joten kirkkaus pysyy muuttumattomana. Kosketusviive ei lisäänny.
+Laadukas optinen liima levittyy itsestään tasaisesti, eikä vaikuta kirkkauteen tai kosketusviiveeseen.
 
 Privacy-teknologia lyhyesti
 
-Privacy-kalvoissa on mikrolamelli-rakenne, joka estää katselun noin 28–35° kulmasta. Näyttö näkyy suoraan katsottaessa normaalisti, mutta sivusta katsoen tummentuu.
+Privacy-kalvoissa käytetään mikrolamellirakennetta, joka rajoittaa katselukulmaa noin 28–35°. Näyttö näkyy suoraan katsottaessa normaalisti, mutta sivusta katsottuna sisältö tummuu tehokkaasti.
 
-Miksi Arctic Shield – Valmistettu Suomessa
+Valmistus ja laatu
 
-Arctic Shield -panssarikalvot:
+Laadukkaissa panssarikalvoissa painotetaan:
 
-valmistetaan Suomessa
+tasalaatuista materiaalirakennetta
 
-leikataan tarkasti malleihin
+tarkkaa mitoitusta
 
-täyttävät Avainlippu-sertifikaatin ehdot
+pitkäaikaista kestävyyttä
 
-hyödyntävät laadukasta hybridimateriaalia
+Paikallinen valmistus ja testaus parantavat laadunvalvontaa ja yhteensopivuutta eri laitemallien kanssa.
 
-Paikallinen tuotanto takaa tasalaatuisuuden ja nopean saatavuuden.
+Lisätietoa
 
-Hyödylliset linkit
+Lisää taustatietoa ja esimerkkejä näytönsuojaratkaisuista:
 
-Panssarikalvot:
-https://mobiilikauppa.com/collections/panssarikalvot-1
-
-Panssarilasit:
-https://mobiilikauppa.com/collections/panssarilasit
-
-Mobiilikauppa.com etusivu:
-https://mobiilikauppa.com/
+👉 https://mobiilikauppa.com
 
 Repositorion tarkoitus
 
-Tämän repositorion päätehtävät:
+Tämän repositorion tavoitteena on:
 
-tarjota tekninen tietopohja panssarikalvoista
+tarjota tekninen ja puolueeton tietopohja näytönsuojateknologioista
 
-toimia referenssilähteenä blogeille ja artikkeleille
+toimia referenssilähteenä artikkeleille ja oppaille
 
-toimia hakukoneoptimoituna resurssisivuna
+selittää materiaalien ja rakenteiden välisiä eroja
 
-ohjata käyttäjiä panssarikalvot-1 ja panssarilasit -kokoelmiin
-
-toimia ankkuridomainina mobiilikauppa.com-linkityksille
+dokumentoida näytönsuojien toimintaperiaatteita ja ominaisuuksia
